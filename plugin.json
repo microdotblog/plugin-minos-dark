@@ -1,7 +1,7 @@
 {
-  "version": "1.1",
-  "title": "Minos Dark Mode",
-  "description": "Adds support for Dark Mode in the Minos design.",
+  "version": "1.0",
+  "title": "Minos dark mode",
+  "description": "Adds support for Dark Mode in the Minos theme.",
   "includes": [
     "/css/dark-minos.min.css"
   ]
