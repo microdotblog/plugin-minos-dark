@@ -3,6 +3,6 @@
   "title": "Minos Dark Mode",
   "description": "Adds support for Dark Mode in the Minos design.",
   "includes": [
-    "/dark.css"
+    "/dark-minos.min.css"
   ]
 }
