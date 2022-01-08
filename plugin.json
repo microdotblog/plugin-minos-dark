@@ -1,0 +1,8 @@
+{
+  "version": "1.1",
+  "title": "Minos Dark Mode",
+  "description": "Adds support for Dark Mode in the Minos design.",
+  "includes": [
+    "/dark.css"
+  ]
+}
